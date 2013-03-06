@@ -509,11 +509,7 @@
 				<string>#b4c75f</string>
 			</dict>
 		</dict>
-	</array>
-	<key>uuid</key>
-	<string>CAB58494-D1A3-4BAD-BBC6-DAED679AD20B</string>
-</dict>
-<dict>
+		<dict>
   <key>name</key>
   <string>diff.deleted</string>
   <key>scope</key>
@@ -523,27 +519,31 @@
     <key>foreground</key>
     <string>#F92672</string>
   </dict>
-</dict>
-<dict>
-  <key>name</key>
-  <string>diff.inserted</string>
-  <key>scope</key>
-  <string>markup.inserted</string>
-  <key>settings</key>
-  <dict>
-    <key>foreground</key>
-    <string>#A6E22E</string>
-  </dict>
-</dict>
-<dict>
-  <key>name</key>
-  <string>diff.changed</string>
-  <key>scope</key>
-  <string>markup.changed</string>
-  <key>settings</key>
-  <dict>
-    <key>foreground</key>
-    <string>#967EFB</string>
-  </dict>
+	</dict>
+	<dict>
+	  <key>name</key>
+	  <string>diff.inserted</string>
+	  <key>scope</key>
+	  <string>markup.inserted</string>
+	  <key>settings</key>
+	  <dict>
+	    <key>foreground</key>
+	    <string>#A6E22E</string>
+	  </dict>
+	</dict>
+	<dict>
+	  <key>name</key>
+	  <string>diff.changed</string>
+	  <key>scope</key>
+	  <string>markup.changed</string>
+	  <key>settings</key>
+	  <dict>
+	    <key>foreground</key>
+	    <string>#967EFB</string>
+	  </dict>
+	</dict>
+	</array>
+	<key>uuid</key>
+	<string>CAB58494-D1A3-4BAD-BBC6-DAED679AD20B</string>
 </dict>
 </plist>
